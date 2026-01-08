@@ -1,0 +1,5 @@
+NAMEs CPP JAVA OS DB CAD
+Zhangsan 85 89.5 78 90.5 85
+Lisi 67 89 78.5 85 77
+Wangwu 78.5 81 67 88 67
+Zhaoliu 90 95 87 78 89.5

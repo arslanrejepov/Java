@@ -1,0 +1,6 @@
+COURSEs Zhangsan Lisi Wangwu Zhaoliu
+CPP 85.0 67.0 78.5 90.0
+JAVA 89.5 89.0 81.0 95.0
+OS 78.0 78.5 67.0 87.0
+DB 90.5 85.0 88.0 78.0
+CAD 85.0 77.0 67.0 89.5

@@ -30,10 +30,6 @@ The main goal of this project is to:
 - Store lab solutions in a clean and accessible format  
 - Document my learning progress in Java  
 
----
-
-
-*(Note: Structure depends on your actual folder names — I can customize this exactly for your repo.)*
 
 ---
 

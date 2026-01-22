@@ -19,3 +19,4 @@ class HourlyWorker extends Employee {
         System.out.println("Hourly Worker: " + name + ", Salary: " + getPaid());
     }
 }
+    
